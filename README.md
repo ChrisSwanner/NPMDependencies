@@ -1,6 +1,6 @@
 # NPMDependencies
 
-##npm install webpack@4.0.1 --save-dev
+npm install webpack@4.0.1 --save-dev
 npm install webpack-cli@2.0.9 --save-dev
 npm install style-loader@0.20.2 css-loader@0.28.10 --save-dev
 npm install html-webpack-plugin@3.0.6 --save-dev
@@ -25,4 +25,4 @@ npm install karma-jquery@0.2.2 --save-dev
 npm install karma-jasmine-html-reporter@0.2.2 --save-dev
 karma init
 
-npm install babel-core@6.26.0 babel-loader@7.1.3 babel-preset-es2015@6.24.1 --save-dev##
+npm install babel-core@6.26.0 babel-loader@7.1.3 babel-preset-es2015@6.24.1 --save-dev 
